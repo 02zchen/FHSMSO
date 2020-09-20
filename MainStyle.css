@@ -25,6 +25,10 @@
     transform: translate(-50%, -50%);
 }
 
+.banner {
+    width:100%; height:400px
+}
+
 #image-center-text {
     color:white;
     font-size: 100px;
